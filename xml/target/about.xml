@@ -1,7 +1,7 @@
 <root name="ABOUT">
     <title>
         <question>What is the title of your dataset?</question>
-        <answer />
+        <answer>Mettes data number 2</answer>
     </title>
     <repository>
         <question>What is the URL of the repository for this MAIDS description on Github?</question>
@@ -9,15 +9,7 @@
     </repository>
     <authors>
         <question>Who are the dataset's authors?</question>
-        <answer>
-            <author_1>
-                
-                <firstnames />
-                <lastname />
-                <email />
-            </author_1>
-        </answer>
-    </authors>
+        <answer><author_1><firstnames /><lastname /><email /></author_1></answer></authors>
     <scores>
         <document>
             <score>
